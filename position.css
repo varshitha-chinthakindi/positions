@@ -1,0 +1,89 @@
+.Outer-box{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    padding: 10px;
+    background-color: mediumturquoise;
+}
+.inner-box{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+    background-color: azure;
+    left: 45px;
+     top: 50px;     
+}
+.card{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    padding: 10px;
+    background-color: cadetblue;
+}
+.icon{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    padding: 10px;
+    background-color: cornsilk;
+    bottom: 0px;
+    right: 0px;
+}
+.tooltip-container{
+  width: 200px;
+  height: 200px;
+  border: 2px solid black; 
+  position: relative; 
+  background-color: antiquewhite;
+}
+.button{
+    width: 90px;
+    height: 20px;
+    top: 50px;
+    left: 50px;
+    position: absolute;
+    background-color: crimson;
+}
+.tooltip{
+    position: absolute;
+    top: 30px;
+    left: 55px;
+}
+.rohit-container{
+    width: 275px;
+    height: 183px;
+    border: 2px solid black;
+    position: relative;
+
+}
+.badge{
+    width: 50px;
+    height: 50px;
+    border: 2px double black;
+    background-color: hotpink;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+}
+.image-container{
+    width: 300px;
+    height: 168px;
+
+    background-color: lightseagreen;
+    position: relative;
+    border: 2px solid black;
+}
+.overlay{
+    width: 55px;
+    height: 35px;
+    background-color: darkorchid;
+    position: absolute;
+    border: 2px solid black;
+    top: 0px;
+    left: 100px;
+}
